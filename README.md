@@ -1,2 +1,2 @@
-# hello-world
-just another directory
+hello everybody :)
+God Bless You
